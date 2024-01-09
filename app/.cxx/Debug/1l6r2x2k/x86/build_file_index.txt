@@ -1,0 +1,1 @@
+C:\Users\anton\AndroidStudioProjects\AudioNativeC\app\src\main\cpp\CMakeLists.txt

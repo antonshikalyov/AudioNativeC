@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/anton/AndroidStudioProjects/AudioNativeC/app/.cxx/Debug/1l6r2x2k/x86_64",
+  "command": "C:\\Users\\anton\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android29 --sysroot=C:/Users/anton/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Daudionativec_EXPORTS -IC:/Users/anton/AndroidStudioProjects/AudioNativeC/app/src/main/cpp/FFmpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\audionativec.dir\\native-lib.cpp.o -c C:\\Users\\anton\\AndroidStudioProjects\\AudioNativeC\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\Users\\anton\\AndroidStudioProjects\\AudioNativeC\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+{
+  "directory": "C:/Users/anton/AndroidStudioProjects/AudioNativeC/app/.cxx/Debug/1l6r2x2k/x86_64",
+  "command": "C:\\Users\\anton\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android29 --sysroot=C:/Users/anton/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Daudionativec_EXPORTS -IC:/Users/anton/AndroidStudioProjects/AudioNativeC/app/src/main/cpp/FFmpeg -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\audionativec.dir\\FFmpeg\\libavfilter\\avfilter.c.o -c C:\\Users\\anton\\AndroidStudioProjects\\AudioNativeC\\app\\src\\main\\cpp\\FFmpeg\\libavfilter\\avfilter.c",
+  "file": "C:\\Users\\anton\\AndroidStudioProjects\\AudioNativeC\\app\\src\\main\\cpp\\FFmpeg\\libavfilter\\avfilter.c"
+}
+]

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\anton\\AndroidStudioProjects\\AudioNativeC\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\anton\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\anton\\AndroidStudioProjects\\AudioNativeC\\app\\.cxx\\Debug\\1l6r2x2k\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\anton\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\anton\\AndroidStudioProjects\\AudioNativeC\\app\\.cxx\\Debug\\1l6r2x2k\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "audionativec::@6890427a1f51a3e7e1df": {
+      "artifactName": "audionativec",
+      "abi": "x86",
+      "output": "C:\\Users\\anton\\AndroidStudioProjects\\AudioNativeC\\app\\build\\intermediates\\cxx\\Debug\\1l6r2x2k\\obj\\x86\\libaudionativec.so",
+      "runtimeFiles": []
+    }
+  }
+}
